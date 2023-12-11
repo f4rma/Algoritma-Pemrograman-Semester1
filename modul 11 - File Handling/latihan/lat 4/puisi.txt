@@ -1,0 +1,1 @@
+ ini merupakan contoh penggunaan file handling dalam bahasa C

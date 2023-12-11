@@ -1,0 +1,18 @@
+Data mahasiswa ke-1
+Nama: radit
+NIM: 23343050
+Jurusan: elektronika
+Program Studi: informatika
+
+Data mahasiswa ke-2
+Nama: putra
+NIM: 23343000
+Jurusan: kedokteran
+Program Studi: anestesiologi
+
+Data mahasiswa ke-3
+Nama: farma
+NIM: 23343010
+Jurusan: elektronika
+Program Studi: rekayasa sistem
+

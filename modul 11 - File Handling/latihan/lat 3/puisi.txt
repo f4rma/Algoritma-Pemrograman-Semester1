@@ -1,0 +1,1 @@
+ini adalah contoh penerapan file handling
