@@ -1,0 +1,11 @@
+-Algoritma adalah sekumpulan instruksi atau langkah-langkah logis yang ditulis secara sistematis untuk menyelesaikan masalah atau persoalan logika dan matematika
+-Pemrograman adalah proses menulis, menguji, memperbaiki (debug), dan memelihara kode yang membangun suatu program komputer.
+-Program adalah suatu rancangan struktur, desain, kode skema, maupun bentuk yang lainnya yang disusun sesuai alur algoritma dengan tujuan mempermudah suatu permasalahan
+-Integrated Development Environment (IDE) adalah perangkat lunak dalam lingkungan pengembangan (Development Environment) yang berfungsi untuk memfasilitasi berbagai alat pemrograman dalam satu aplikasi.
+-Programmer adalah seseorang yang bertanggung jawab membuat suatu sistem, program, atau aplikasi dengan menggunakan bahasa pemrograman.
+
+Buatlah program untuk mencetak “Hello World!” kemudian jalankan 
+program tersebut menggunakan CMD dan dengan menggunakan IDE 
+yang sudah di-install. Kemudian berikan kesimpulan mengenai aktivitas 
+tersebut, dan jelaskan mengenai tiap baris program tersebut menurut 
+pemahaman anda
