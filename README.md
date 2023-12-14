@@ -16,5 +16,7 @@ Dosen Pengampu      : Randi Proska Sandra, M.Sc
 </tr>
 </table>
 
+## Pemahaman Materi 
+
 # Job Sheet 1
 <p> Algoritma merupakan urutan langkah-langkah </p>
