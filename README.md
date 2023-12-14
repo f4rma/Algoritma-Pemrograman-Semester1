@@ -43,30 +43,56 @@ Dosen Pengampu      : Randi Proska Sandra, M.Sc
 <p> ✦ Konversi Tipe Data adalah proses mengubah tipe data menjadi tipe yang lain. Dibutuhkan dalam pemrograman ketika perlu menggabungkan atau memanipulasi data dari tipe yang berbeda</p>
 <p> ✦ Konstanta merupakan nilai tetapan. Dapat menggunakan #define ataupun const. Perbedaannya terletak pada format penulisan, const memerlukan semicolon diakhir sedangkan konstanta tidak.</p>
 
-## JobSheet 4 - Operator
+## Job Sheet 4 - Operator
 <p> ✦ Operator merupakan simbol atau kata kunci untuk melakukan operasi tertentu pada data atau variabel. Berdasar jumlah operandnya Operator terbagi 3 jenis: </p>
 <img src=""/>
 <p> ✦ Operand merupakan nilai asal yang dipakai dalam sebuah proses operasi.</p>
 <p> ✦ Operator aritmatika berfungsi untuk operasi matematika, operator penugasan berfungsi untuk memberi tugas pada variabel, sedangkan operator pembanding berguna untuk membandingkan dua buah nilai.</p>
 <p> ✦ Operator Bitwise digunakan untuk operasi berdasarkan bit(biner) dari sebuah nilai. Terbagi atas bitwise AND, OR, XOR, dan NOT yang penggunaannya berdasarkan logikanya, serta Left Shift yang menghasilkan nilai biner yang digeser ke kiri, dan Right Shift yang digeser ke arah kanan.</p>
 
-## JobSheet 5 - FLow Control (Decision Making)
-<p> ✦ If merupakan percabangan yang hanya memiliki satu blok pilihan saat kondisi bernilai benar. Sedangkan If Else memiliki dua blok pilihan, blok pilihan pertama untuk kondisi benar, dan pilihan kedua untuk kondisi salah.</p>
-<p> ✦ if else if percabangannya lebih dari dua blok pilihan</p>
-<p> ✦ </p>
-<p> ✦ </p>
-
+## Job Sheet 5 - FLow Control (Decision Making)
+<p> ✦ If merupakan percabangan yang hanya memiliki satu blok pilihan saat kondisi bernilai benar. Sedangkan If Else memiliki dua blok pilihan, blok pilihan pertama untuk kondisi benar, dan pilihan kedua untuk kondisi salah. Adapun if else if percabangannya lebih dari dua blok pilihan<</p>
+<p> ✦ Switch Case bentuk lain dari if else if. Tiap case diakhiri dengan break agar program berhenti mengecek case berikutnya saat sebuah case terpenuhi, kecuali untuk default./p>
+<p> ✦ Percabangan Operator Ternary bentuk singkat dari if else. Hanya berisi antara benar atau salah. Adapun percabangan Bersarang dimana kondisinya saling bergantung, yaitu sebuah pernyataan if didalam pernyataan if lainnya.</p>
  
 
 
-## JobSheet 6 - Flow Control
+## Job Sheet 6 - Flow Control
+<p> ✦ Perulangan For : sudah jelas berapa kali akan mengulang. Variabel dalam kurung perulangan for berfungsi untuk menyimpan nilai hitungan.</p>
+<p> ✦ Perulangan While : belum jelas berapa kali akan melakukan pengulangan(uncounted loop). Namun dapat menjadi perulangan yang jelas berapa kali akan mengulang dengan memberikan counter di dalamnya.</p>
+<p> ✦ Do While : melakukan satu kali perulangan terlebih dahulu tanpa memeriksa kondisi, dan setelah itu kondisi di dalam kurung while dicek.</p>
+<p> ✦ Perulangan Bersarang: menggunakan dua perulangan for, dimana perulangan kedua berada di dalam perulangan pertama. Perulangan bersarang dapat digunakan untuk melakukan operasi yang membutuhkan iterasi lebih dari satu kali</p>
+
+## Job Sheet 7 - Array
+<p> ✦ Array merupakan struktur data untuk menyimpan sekumpulan data dalam satu tempat. Tiap data dalam array memiliki indeks. Panjang array ditentukan menggunakan kurung siku []. Array akan menyimpan sekumpulan data dan memberinya nomer indeks agar mudah diakses.</p>
+<p> ✦ Perulangan dengan Array : cara untuk menggabungkan dua atau lebih array menjadi satu array baru dengan menggunakan perulangan. Dapat digunakan untuk melakukan operasi yang membutuhkan penggabungan data dari sumber yang berbeda. </p>
+<p> ✦ </p>
+<p> ✦ </p>
 
 
-## JobSheet 7 - Array
-Array dalam bahasa C adalah struktur data yang digunakan untuk menyimpan kumpulan elemen data yang serupa dalam satu variabel. Elemen-elemen ini dapat diakses menggunakan indeks yang merupakan posisi relatif dari setiap elemen di dalam array.
+## Job Sheet 8 - Fungsi dan Prosedur
+<p> ✦ </p>
+<p> ✦ </p>
+<p> ✦ </p>
+<p> ✦ </p>
 
-Pengertian Array :
-Array : Sebuah struktur data yang terdiri dari elemen-elemen dengan tipe data yang sama, ditempatkan secara berurutan dalam memori dan diakses menggunakan indeks.
+
+## Job Sheet 9 - Pointer
+<p> ✦ </p>
+<p> ✦ </p>
+<p> ✦ </p>
+<p> ✦ </p>
 
 
-"**"JobSheet 8 - Fungsi dan Prosedur"**"
+## Job Sheet 10 - Enum and Struct
+<p> ✦ </p>
+<p> ✦ </p>
+<p> ✦ </p>
+<p> ✦ </p>
+
+
+## Job Sheet 11 - File Handling
+<p> ✦ </p>
+<p> ✦ </p>
+<p> ✦ </p>
+<p> ✦ </p>
