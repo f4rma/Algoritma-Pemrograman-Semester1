@@ -34,5 +34,5 @@ yang dibuat dalam suatu urutan tertentu, agar masalah yang dihadapi dapat disele
 
 ## Job Sheet 2
 <p> ✦ Syntax merupakan aturan penulisan kode pada bahasa pemrograman. Terdiri atas header files atau Include dan blok fungsi main. Header berfungsi untuk memanggil fungsi yang sudah didefinisikan guna mengakses berbagai fitur tambahan dalam bahasa C. sementara blok fungsi main bersisi statement dari kode program penyusun fungsi yang ditulis.</p>
-<p> ✦ Statement adalah perintah atau fungsi untuk melakukan sesuatu. Pada akhir statement terdapat semicolons yang menandakan berakhirnya perintah atau statement tersebut. Selain itu terdapat pula Identifier untuk mengidentifikasikan variabel, fungsi, atau semua item yang didefinisikan oleh programmer.
-</p>
+<p> ✦ Statement adalah perintah atau fungsi untuk melakukan sesuatu. Pada akhir statement terdapat semicolons yang menandakan berakhirnya perintah atau statement tersebut. Selain itu terdapat pula Identifier untuk mengidentifikasikan variabel, fungsi, atau semua item yang didefinisikan oleh programmer. Untuk mendeskripsikan fungsi dari baris program dapat menggunakan Comments.</p>
+<p> ✦ Input merupakan suatu data yang dimasukkan ke dalam program. Proses merupakan langkah-langkah yang harus dilakukan program untuk menghasilkan output. Sedangkan Output merupakan informasi yang dihasilkan setelah dilakukan proses.</p>
