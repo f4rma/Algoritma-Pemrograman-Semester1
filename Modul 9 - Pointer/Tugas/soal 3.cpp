@@ -22,7 +22,7 @@ int main() {
 
     // Menjawab pertanyaan B
     printf("B.\n");
-    printf("a) Nilai Layla: %d\n", *Layla2);
+    printf("a) Nilai Layla: %d\n", Layla2);
     printf("b) Nilai Balmond: %d\n", Balmond2);
 
     return 0;
