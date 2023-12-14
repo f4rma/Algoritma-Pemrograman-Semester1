@@ -6,9 +6,9 @@
 <tr>
 <td>
 <b><pre>
-N A M A                   : R a d i t y a   P u t r a   F a r m a<br>
-N I M                     : 2 3 3 4 3 0 5 0<br>
-P r o g r a m   S t u d i : I n f o r m a t i k a
+Nama                : Raditya Putra Farma<br>
+NIM                 : 23343050<br>
+Program Studi       : Informatika
 </pre></b>
 </td>
 </tr>
