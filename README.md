@@ -15,3 +15,4 @@ P r o g r a m   S t u d i : I n f o r m a t i k a
 </table>
 
 # Job Sheet 1
+<p> Algoritma merupakan urutan langkah-langkah </p>
