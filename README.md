@@ -16,6 +16,7 @@ Dosen Pengampu      : Randi Proska Sandra, M.Sc
 </tr>
 </table>
 
+## Laporan Praktikum Algoritma Pemrograman
 ## Pemahaman Materi 
 
 ## Job Sheet 1
