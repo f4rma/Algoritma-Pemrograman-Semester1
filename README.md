@@ -48,8 +48,7 @@ Dosen Pengampu      : Randi Proska Sandra, M.Sc
 <img src=""/>
 <p> ✦ Operand merupakan nilai asal yang dipakai dalam sebuah proses operasi.</p>
 <p> ✦ Operator aritmatika berfungsi untuk operasi matematika, operator penugasan berfungsi untuk memberi tugas pada variabel, sedangkan operator pembanding berguna untuk membandingkan dua buah nilai.</p>
-<p> ✦ Operator Bitwise digunakan untuk operasi berdasarkan bit(biner) dari sebuah nilai. Terbagi atas bitwise AND, OR, XOR, NOT,Left Shift, dan Right Shift.</p>
-
+<p> ✦ Operator Bitwise digunakan untuk operasi berdasarkan bit(biner) dari sebuah nilai. Terbagi atas bitwise AND, OR, XOR, dan NOT yang penggunaannya berdasarkan logikanya, serta Left Shift yang menghasilkan nilai biner yang digeser ke kiri, dan Right Shift yang digeser ke arah kanan.</p>
 
 ## JobSheet 5 - FLow Control (Decision Making)
 <p> ✦ If merupakan percabangan yang hanya memiliki satu blok pilihan saat kondisi bernilai benar. Sedangkan If Else memiliki dua blok pilihan, blok pilihan pertama untuk kondisi benar, dan pilihan kedua untuk kondisi salah.</p>
