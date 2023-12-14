@@ -6,8 +6,8 @@
 <tr>
 <td>
 <b><pre>
-N A M A                   : R a d i t y a  P u t r a   F a r m a<br>
-N I M                     : 2 2 3 4 3 0 3 1<br>
+N A M A                   : R a d i t y a   P u t r a   F a r m a<br>
+N I M                     : 2 3 3 4 3 0 5 0<br>
 P r o g r a m   S t u d i : I n f o r m a t i k a
 </pre></b>
 </td>
