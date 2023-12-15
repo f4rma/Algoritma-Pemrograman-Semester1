@@ -86,11 +86,11 @@ Dosen Pengampu      : Randi Proska Sandra, M.Sc
 ## Job Sheet 10 - Enum and Struct
 <p> ✦ Enum atau enumeration: tipe data bentukan yang berisi sekumpulan konstanta. Besaran nilai konstanta pada enum dapat diisi, namun akan secara default mengikuti urutan penulisannya jika tidak diisi.</p>
 <p> ✦ Tipe Data Boolean dapat dibuat sendiri dengan penggunaan Enum, karena Boolean hanya berisi benar atau salah, sedangkan Enum hanya mengambil satu nilai dari konstanta yang ada. Selain itu menggunakan Enum akan memberi efisiensi dan fleksibilitas dalam penggunaan memorinya. </p>
-<p> ✦ Structure atau struct : Kumpulan berbagai variabel dengan tipe data yang berbeda dikemas dalam satu variabel. Pengguanaannya dengan membuat kata kunci struct kemudian diikuti dengan nama struct dan isinya. Typedef dapat dipakai di depan struct untuk menyatakan sebagai tipe data baru.</p>
+<p> ✦ Structure atau struct : Kumpulan berbagai variabel dengan tipe data yang berbeda dikemas dalam satu variabel. Penggunaannya dengan membuat kata kunci struct kemudian diikuti dengan nama struct dan isinya. Typedef dapat dipakai di depan struct untuk menyatakannya  sebagai tipe data baru.</p>
 
 
 ## Job Sheet 11 - File Handling
-<p> ✦ </p>
-<p> ✦ </p>
-<p> ✦ </p>
+<p> ✦ File Handling : proses membuat, membuka, membaca, menulis, dan menutup operasi pada sebuah file.</p>
+<p> ✦ Terdapat Fungsi-fungsi yang dapat digunakan seperti fopen() untuk membuka atau mengaktifkan file dalam mode tertentu, fwrite() untuk menulis data yang sudah dibuka tadi, fread() untuk membaca data dari file yang sudah dibuka, fseek() untuk mengubah posisi file pointer yang dikembalikan oleh fopen(). .</p>
+<p> ✦ Fungsi tersebut didukung dengan penggunaan mode-mode seperti read,write, append, binary, dan lainnya.</p>
 <p> ✦ </p>
