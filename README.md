@@ -45,7 +45,7 @@ Dosen Pengampu      : Randi Proska Sandra, M.Sc
 
 ## Job Sheet 4 - Operator
 <p> ✦ Operator merupakan simbol atau kata kunci untuk melakukan operasi tertentu pada data atau variabel. Berdasar jumlah operandnya Operator terbagi 3 jenis: </p>
-<img src=""/>
+<img src="https://github.com/f4rma/Algoritma-Pemrograman-Semester1/assets/145153493/79bd98cd-09f9-4951-b1de-6e9a7875a50d" height="150" width="400"/>
 <p> ✦ Operand merupakan nilai asal yang dipakai dalam sebuah proses operasi.</p>
 <p> ✦ Operator aritmatika berfungsi untuk operasi matematika, operator penugasan berfungsi untuk memberi tugas pada variabel, sedangkan operator pembanding berguna untuk membandingkan dua buah nilai.</p>
 <p> ✦ Operator Bitwise digunakan untuk operasi berdasarkan bit(biner) dari sebuah nilai. Terbagi atas bitwise AND, OR, XOR, dan NOT yang penggunaannya berdasarkan logikanya, serta Left Shift yang menghasilkan nilai biner yang digeser ke kiri, dan Right Shift yang digeser ke arah kanan.</p>
