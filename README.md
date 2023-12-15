@@ -39,7 +39,8 @@ Dosen Pengampu      : Randi Proska Sandra, M.Sc
 
 ## Job Sheet 3 - Variabel, Konstanta  Tipe Data
 <p> ✦ Variabel merupakan tempat menyimpan sebuah nilai. Sementara Tipe Data adalah jenis nilai yang akan tersimpan dalam variabel, atau dapat diartikan juga sebagai sebuah pengelompokan data untuk memberitahu compiler bagaimana programmer ingin mengolah data tersebut </p>
-<p> ✦ Terdapat setidaknya delapan jenis tipe data yaitu char, integer, float, array, structure, pointer, enum, dan void.</p>
+<p> ✦ Terdapat setidaknya sembilan jenis tipe data yaitu char, integer, float, double, array, structure, pointer, enum, dan void.</p>
+<img width="263" alt="Screenshot 2023-12-15 204225" src="https://github.com/f4rma/Algoritma-Pemrograman-Semester1/assets/145153493/1b4be392-ae35-40a1-b90c-44445e9d1552">
 <p> ✦ Konversi Tipe Data adalah proses mengubah tipe data menjadi tipe yang lain. Dibutuhkan dalam pemrograman ketika perlu menggabungkan atau memanipulasi data dari tipe yang berbeda</p>
 <p> ✦ Konstanta merupakan nilai tetapan. Dapat menggunakan #define ataupun const. Perbedaannya terletak pada format penulisan, const memerlukan semicolon diakhir sedangkan konstanta tidak.</p>
 
@@ -87,10 +88,17 @@ Dosen Pengampu      : Randi Proska Sandra, M.Sc
 <p> ✦ Enum atau enumeration: tipe data bentukan yang berisi sekumpulan konstanta. Besaran nilai konstanta pada enum dapat diisi, namun akan secara default mengikuti urutan penulisannya jika tidak diisi.</p>
 <p> ✦ Tipe Data Boolean dapat dibuat sendiri dengan penggunaan Enum, karena Boolean hanya berisi benar atau salah, sedangkan Enum hanya mengambil satu nilai dari konstanta yang ada. Selain itu menggunakan Enum akan memberi efisiensi dan fleksibilitas dalam penggunaan memorinya. </p>
 <p> ✦ Structure atau struct : Kumpulan berbagai variabel dengan tipe data yang berbeda dikemas dalam satu variabel. Penggunaannya dengan membuat kata kunci struct kemudian diikuti dengan nama struct dan isinya. Typedef dapat dipakai di depan struct untuk menyatakannya  sebagai tipe data baru.</p>
+<img width="369" alt="image" src="https://github.com/f4rma/Algoritma-Pemrograman-Semester1/assets/145153493/9c2640de-df30-489e-83d8-513d364ff8db">
+
 
 
 ## Job Sheet 11 - File Handling
 <p> ✦ File Handling : proses membuat, membuka, membaca, menulis, dan menutup operasi pada sebuah file.</p>
 <p> ✦ Terdapat Fungsi-fungsi yang dapat digunakan seperti fopen() untuk membuka atau mengaktifkan file dalam mode tertentu, fwrite() untuk menulis data yang sudah dibuka tadi, fread() untuk membaca data dari file yang sudah dibuka, fseek() untuk mengubah posisi file pointer yang dikembalikan oleh fopen(). .</p>
 <p> ✦ Fungsi tersebut didukung dengan penggunaan mode-mode seperti read,write, append, binary, dan lainnya.</p>
-<p> ✦ </p>
+<img width="268" alt="Screenshot 2023-12-15 204536" src="https://github.com/f4rma/Algoritma-Pemrograman-Semester1/assets/145153493/fda7a597-81bf-401d-90cc-a001dd900b41">
+<br>
+<img width="266" alt="image" src="https://github.com/f4rma/Algoritma-Pemrograman-Semester1/assets/145153493/f46bc7b9-d24d-451e-8533-008ea00b7c3f">
+
+
+
