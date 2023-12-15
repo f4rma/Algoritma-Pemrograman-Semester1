@@ -6,11 +6,13 @@
 <tr>
 <td>
 <b><pre>
+<h3>
 Nama                : Raditya Putra Farma
 NIM                 : 23343050
 Program Studi       : Informatika
 Kode Kelas          : INF1.62.1008
 Dosen Pengampu      : Randi Proska Sandra, M.Sc
+</h3>
 </pre></b>
 </td>
 </tr>
