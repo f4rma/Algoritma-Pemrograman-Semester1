@@ -65,30 +65,28 @@ Dosen Pengampu      : Randi Proska Sandra, M.Sc
 
 ## Job Sheet 7 - Array
 <p> ✦ Array merupakan struktur data untuk menyimpan sekumpulan data dalam satu tempat. Tiap data dalam array memiliki indeks. Panjang array ditentukan menggunakan kurung siku []. Array akan menyimpan sekumpulan data dan memberinya nomer indeks agar mudah diakses.</p>
-<p> ✦ Perulangan dengan Array : cara untuk menggabungkan dua atau lebih array menjadi satu array baru dengan menggunakan perulangan. Dapat digunakan untuk melakukan operasi yang membutuhkan penggabungan data dari sumber yang berbeda. </p>
-<p> ✦ </p>
-<p> ✦ </p>
+<p> ✦ Perulangan dengan Array : cara untuk menggabungkan dua atau lebih array menjadi satu array baru dengan menggunakan perulangan, digunakan untuk melakukan operasi yang membutuhkan penggabungan data dari sumber yang berbeda. </p>
+<p> ✦ Mengambil panjang array pada perulangan dapat dilakukan dengan membagi besar array dan ukuran pointernya. Sedangkan untuk mengambil ukuran memori dari array dapat menggunakan fungsi sizeof() </p>
 
 
 ## Job Sheet 8 - Fungsi dan Prosedur
-<p> ✦ </p>
-<p> ✦ </p>
-<p> ✦ </p>
-<p> ✦ </p>
+<p> ✦ Fungsi merupakan blok kode atau sub program yang dapat dipanggil dari bagian lain program untuk melakukan tugas tertentu, baik di dalam program itu sendiri, maupun di program yang lain. Fungsi memiliki nama, parameter, dan nilai kembalian.</p>
+<p> ✦ Parameter merupakan variabel yang menyimpan nilai untuk diproses di dalam fungsi, dengan menyimpan nilai yang akan diinputkan ke dalam fungsi. Jika dalam satu fungsi terdapat lebih dari satu parameter, maka dapat dipisah dengan menambahkan tanda koma diantara keduanya.</p>
+<p> ✦ Fungsi yang mengembalikan nilai menggunakan return pada akhiran untuk mengembalikan nilai dari fungsi tersebut, agar dapat diproses di tahap berikutnya. Adapun fungsi yang tidak mengembalikan apa-apa menggunakan tipe data void.</p>
+<p> ✦ Variabel Global dapat diakses dari semua fungsi, karena terletak di luar fungsi, yaitu dibawah header. Sedangkan Variabel Lokal hanya bisa diakses dari dalam fungsinya sendiri.</p>
 
 
 ## Job Sheet 9 - Pointer
-<p> ✦ </p>
-<p> ✦ </p>
-<p> ✦ </p>
-<p> ✦ </p>
+<p> ✦ Pointer : variabel yang menyimpan alamat memori dari variabel lain. Dapat digunakan untuk mengakses dan memodifikasi nilai variabel yang ditunjuknya. Pointer dibuat dengan menambahkan simbol * (asteris) di depan namanya, kemudian diisi dengan alamat memori yang akan digunakan sebagai referensi.</p>
+<p> ✦ Alamat memori pointer digunakan untuk menyimpan pointer, sedangkan alamat referensi merujuk kepada lokasi yang akan dijadikan referensi oleh pointer. Pointer akan bisa mengakses isi data pada alamat referensi yang diberikannya</p>
+<p> ✦ Pass by Reference : pointer menerima alamat memori dari variabel yang dilewatkan sebagai argumen, sehingga fungsi dapat mengubah nilai asli dengan mengikuti pointer</p>
+<p> ✦ Pass by Value : pointer menerima nilai dari variabel yang dilewatkan sebagai argumen , sehingga fungsi tidak dapat mengubah nilai variabel asli, namun hanya bekerja dengan salinan lokal.</p>
 
 
 ## Job Sheet 10 - Enum and Struct
-<p> ✦ </p>
-<p> ✦ </p>
-<p> ✦ </p>
-<p> ✦ </p>
+<p> ✦ Enum atau enumeration: tipe data bentukan yang berisi sekumpulan konstanta. Besaran nilai konstanta pada enum dapat diisi, namun akan secara default mengikuti urutan penulisannya jika tidak diisi.</p>
+<p> ✦ Tipe Data Boolean dapat dibuat sendiri dengan penggunaan Enum, karena Boolean hanya berisi benar atau salah, sedangkan Enum hanya mengambil satu nilai dari konstanta yang ada. Selain itu menggunakan Enum akan memberi efisiensi dan fleksibilitas dalam penggunaan memorinya. </p>
+<p> ✦ Structure atau struct : Kumpulan berbagai variabel dengan tipe data yang berbeda dikemas dalam satu variabel. Pengguanaannya dengan membuat kata kunci struct kemudian diikuti dengan nama struct dan isinya. Typedef dapat dipakai di depan struct untuk menyatakan sebagai tipe data baru.</p>
 
 
 ## Job Sheet 11 - File Handling
