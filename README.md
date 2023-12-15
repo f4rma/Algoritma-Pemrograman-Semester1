@@ -128,6 +128,9 @@ Dosen Pengampu      : Randi Proska Sandra, M.Sc
 
 <p> ✦ <b>File Handling</b> : proses membuat, membuka, membaca, menulis, dan menutup operasi pada sebuah file.</p>
 <p> ✦ Terdapat Fungsi-fungsi yang dapat digunakan seperti fopen() untuk membuka atau mengaktifkan file dalam mode tertentu, fwrite() untuk menulis data yang sudah dibuka tadi, fread() untuk membaca data dari file yang sudah dibuka, fseek() untuk mengubah posisi file pointer yang dikembalikan oleh fopen(). .</p>
+<p> ✦ Untuk membaca isi file, kita bisa menggunakan fungsi fgets() yang akan membaca satu baris teks dari file dan menyimpannya ke dalam sebuah variabel. Fungsi fgets() membutuhkan tiga parameter, yaitu variabel yang akan menampung teks, panjang maksimal teks yang akan dibaca, dan pointer file yang menunjuk ke file yang dibuka.</p>
+<p> ✦ Untuk menulis file, kita perlu membuka file tersebut dengan fungsi fopen() dan memberikan mode yang sesuai, misalnya "w" untuk write atau tulis saja. Fungsi fopen() akan mengembalikan sebuah pointer yang menunjuk ke file yang dibuka. Jika file tidak ada, maka file akan dibuat baru. Jika file sudah ada, maka isi file akan ditimpa.</p>
+<p> ✦ Untuk menulis dan membaca file secara bersamaan, kita bisa menggunakan mode yang menggabungkan keduanya, misalnya "w+" untuk write dan read. Dengan mode ini, kita bisa menulis teks ke file dan kemudian membacanya kembali.</p>
 <p> ✦ Fungsi tersebut didukung dengan penggunaan mode-mode seperti read,write, append, binary, dan lainnya.</p>
 <img width="268" alt="Screenshot 2023-12-15 204536" src="https://github.com/f4rma/Algoritma-Pemrograman-Semester1/assets/145153493/fda7a597-81bf-401d-90cc-a001dd900b41">
 <br>
